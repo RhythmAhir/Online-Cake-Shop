@@ -1,6 +1,6 @@
 # Online-Cake-Shop
 
-Dynamically add cakes
-View from Website
-organize users
-Manage orders
+Dynamically add cakes/
+View from Website/
+organize users/
+Manage orders/
